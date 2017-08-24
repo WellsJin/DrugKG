@@ -5,4 +5,7 @@ package io.wellsJin.storage.dao;
  */
 public class BaseDao
 {
+    public static void main(String[] args){
+
+    }
 }
